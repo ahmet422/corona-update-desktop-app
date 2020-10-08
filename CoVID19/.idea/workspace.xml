@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e167d91-4add-44f7-9202-5452d9398d6b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CoVID19" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CoVID19" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CoVID19" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1b6C9sGeSgP8kxjUCZXINiLNwJI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Controller" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Controller" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CoVID19 [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CoVID19 [run]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e167d91-4add-44f7-9202-5452d9398d6b" name="Default Changelist" comment="" />
+      <created>1587943007195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587943007195</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587959142995">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587959142995" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1588560694857">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587959919417" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1588560694857" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1588560694856">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587959919416" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1588560694856" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1588560694856">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587959919415" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1588560694856" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1588560694857">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587959919416" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1588560694857" />
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom" timestamp="1587959519146">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587959519146" />
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1587951301606" />
+    <state width="1878" height="357" key="GridCell.Tab.1.center" timestamp="1587959519144">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587959519144" />
+    <state width="1878" height="357" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1587951301605" />
+    <state width="1878" height="357" key="GridCell.Tab.1.left" timestamp="1587959519144">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587959519144" />
+    <state width="1878" height="357" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1587951301605" />
+    <state width="1878" height="357" key="GridCell.Tab.1.right" timestamp="1587959519145">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587959519145" />
+    <state width="1878" height="357" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1587951301606" />
+    <state x="496" y="180" key="SettingsEditor" timestamp="1588117727808">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="496" y="160" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1587960053737" />
+    <state x="496" y="180" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1588117727808" />
+    <state x="665" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1588560603302">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="665" y="369" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587959949494" />
+    <state x="665" y="384" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1588560603302" />
+    <state x="519" y="371" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1587948641604">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="519" y="371" key="com.intellij.javaee.MapExternalResourceDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1587948641604" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="CoVID19" type="b2602c69:ProjectViewProjectNode" />
+        <item name="CoVID19" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>

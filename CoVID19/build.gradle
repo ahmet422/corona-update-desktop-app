@@ -1,0 +1,25 @@
+plugins {
+    id 'java'
+    id 'application'
+    id 'org.openjfx.javafxplugin' version '0.0.8'
+}
+
+//group 'neiu.420.2020.Frontiers'
+//version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.11
+
+repositories {
+    mavenCentral()
+}
+
+javafx {
+    version = '11.0.2'
+    modules = [ 'javafx.controls', 'javafx.fxml' ]
+}
+
+mainClassName = 'Controller.Main'
+
+dependencies {
+    compile group: 'org.json', name: 'json', version: '20190722'
+}

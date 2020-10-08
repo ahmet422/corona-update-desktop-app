@@ -1,0 +1,32 @@
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<GridPane fx:id="gridPane" fx:controller="Controller.MainController" xmlns:fx="http://javafx.com/fxml" hgap="10" vgap="10" alignment="TOP_CENTER">
+    <padding><Insets top="50" right="25" bottom="25" left="25"/></padding>
+    <children>
+        <Label                       GridPane.rowIndex="0" GridPane.columnIndex="0" >Total confirmed cases: </Label>
+        <Label fx:id="lblConfirmed"  GridPane.rowIndex="0" GridPane.columnIndex="1" />
+        <Label                       GridPane.rowIndex="1" GridPane.columnIndex="0" >Total recovered: </Label>
+        <Label fx:id="lblRecovered"  GridPane.rowIndex="1" GridPane.columnIndex="1" />
+        <Label                       GridPane.rowIndex="2" GridPane.columnIndex="0" >Total deaths: </Label>
+        <Label fx:id="lblDeaths"     GridPane.rowIndex="2" GridPane.columnIndex="1" />
+
+        <Label                                  GridPane.rowIndex="3" GridPane.columnIndex="0" >Country with the most confirmed cases: </Label>
+        <Label fx:id="lblMostCaseCountry"       GridPane.rowIndex="3" GridPane.columnIndex="1" />
+        <Label                                  GridPane.rowIndex="4" GridPane.columnIndex="0" >Country with the most recovered cases: </Label>
+        <Label fx:id="lblMostRecoveredCountry"  GridPane.rowIndex="4" GridPane.columnIndex="1" />
+        <Label                                  GridPane.rowIndex="5" GridPane.columnIndex="0" >Country with the most deaths: </Label>
+        <Label fx:id="lblMostDeathsCountry"     GridPane.rowIndex="5" GridPane.columnIndex="1" />
+
+        <Label GridPane.rowIndex="6"      GridPane.columnIndex="0" >Select country to view stats: </Label>
+        <ComboBox fx:id="comboCountries"  GridPane.rowIndex="6" GridPane.columnIndex="1" />
+        <Label    fx:id="lblSpecCountry"  GridPane.rowIndex="7" GridPane.columnIndex="1" />
+
+<!--        <Label GridPane.rowIndex="8" GridPane.columnIndex="0"> From: </Label>-->
+<!--        <Label GridPane.rowIndex="8" GridPane.columnIndex="1"> To: </Label>-->
+<!--        <DatePicker fx:id="datePickerFrom"  GridPane.rowIndex="9" GridPane.columnIndex="0"/>-->
+<!--        <DatePicker fx:id="datePickerTo"  GridPane.rowIndex="9" GridPane.columnIndex="1"/>-->
+
+        <Button fx:id="btnGoTo" onAction="#gotoTableView" GridPane.rowIndex="10" GridPane.columnIndex="1" text="Show all" />
+    </children>
+</GridPane>
